@@ -1,0 +1,15 @@
+{
+  "name": "sanket-ssh",
+  "version": "0.1.0",
+  "author": "sanket s",
+  "summary": "ssh desciber",
+  "license": "Apache-2.0",
+  "source": "https://github.com/sanketshirude07/Puppet-ssh-azure",
+  "project_page": "https://github.com/sanketshirude07/Puppet-ssh-azure",
+  "issues_url": "https://github.com/sanketshirude07/Puppet-ssh-azure/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
